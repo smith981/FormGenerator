@@ -15,6 +15,9 @@
     ],
     "minimum-stability": "dev",
     "autoload": {
-        "psr-0": { "": "src/"}
+        "psr-0": { 
+            "": "src/",
+            "smith981/FormGenerator": "src/form-generator"
+        }
     }
 }
