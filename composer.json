@@ -1,5 +1,5 @@
 {
-    "name": "smith981/FormGenerator",
+    "name": "smith981/form-generator",
     "description": "Generate CRUD forms from annotated Doctrine model classes.",
     "require": {
         "zendframework/zend-form": "dev-master",
