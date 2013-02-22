@@ -1,0 +1,20 @@
+{
+    "name": "smith981/form-generator",
+    "description": "Generate CRUD forms from annotated Doctrine model classes.",
+    "require": {
+        "zendframework/zend-form": "dev-master",
+        "zendframework/zend-code": "dev-master",
+        "EHER/PHPUnit": "dev-master",
+        "doctrine/common": "2.4.*@dev"
+    },
+    "authors": [
+        {
+            "name": "Ed Smith",
+            "email": "smith981@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": { "": "src/"}
+    }
+}
